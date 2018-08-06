@@ -40,7 +40,7 @@ $(document).ready(function()
     }, 6000);
 
     setTimeout(function(){
-        for(let i = 0; i < 50; i++)
+        for(let i = 0; i < 30; i++)
         {
             setTimeout(function() {
                 drawFish();
